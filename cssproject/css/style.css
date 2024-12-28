@@ -1,6 +1,6 @@
 body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 90%;
+    font-size: 120%;
     background-color: rgb(246, 235, 220);
 }
 
@@ -17,7 +17,7 @@ main{
 }
 footer{
     background-color: rgb(253, 219, 177);
-    font-size: 120%;
+    
 }
 li{
     display: inline-block;
