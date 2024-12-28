@@ -1,0 +1,32 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    font-size: 90%;
+    background-color: rgb(246, 235, 220);
+}
+
+header{
+    background-color: rgb(186, 237, 219);
+}
+nav{
+    background-color: rgb(238, 215, 177);
+}
+main{
+    background-color: rgb(246, 245, 182);
+    font-size: 80%;
+}
+footer{
+    background-color: rgb(253, 219, 177);
+}
+li{
+    display: inline-block;
+    width: 30%;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+p{
+    line-height: 15px;
+}
