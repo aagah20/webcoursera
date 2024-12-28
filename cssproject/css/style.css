@@ -1,5 +1,5 @@
 body{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 90%;
     background-color: rgb(246, 235, 220);
 }
@@ -9,14 +9,15 @@ header{
 }
 nav{
     background-color: rgb(238, 215, 177);
-    font-size: 80%
+    font-size: 140%;
 }
 main{
     background-color: rgb(246, 245, 182);
-    font-size: 80%;
+    font-size: 120%;
 }
 footer{
     background-color: rgb(253, 219, 177);
+    font-size: 120%;
 }
 li{
     display: inline-block;
