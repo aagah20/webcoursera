@@ -1,6 +1,6 @@
 body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 150%;
+    font-size: 130%;
     background-color: rgb(246, 235, 220);
 }
 
@@ -32,5 +32,5 @@ p{
     line-height: 25px;
 }
 a{
-    font-size: 150%;
+    font-size: 120%;
 }
